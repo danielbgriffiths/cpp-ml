@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/danielgriffiths/Desktop/ml/cpp-ml",
+      "program": "/Users/danielgriffiths/Desktop/ml/cpp-ml/build/Debug/outDebug"
+    }
+  ]
+}
